@@ -5,7 +5,6 @@ public class Camera : MonoBehaviour
     public GameObject MainCamera;                   //メインカメラ
     public GameObject Target;                       //ターゲット
 
-
     // Update is called once per frame
     void Update()
     {
